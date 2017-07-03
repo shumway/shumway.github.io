@@ -23,6 +23,11 @@ twitter_username: drjsjr
 github_username: shumway
 linkedin_username: johnshumway
 
+# Header pages
+header_pages:
+- about.html
+- publications.html
+
 # Build settings
 markdown: kramdown
 theme: "minima"
