@@ -25,7 +25,7 @@ linkedin_username: johnshumway
 
 # Build settings
 markdown: kramdown
-theme: "minimal-mistakes-jekyll"
+theme: "minima"
 gems:
   - jekyll-feed
 exclude:
