@@ -4,13 +4,13 @@ title: Publications
 permalink: /pubs/
 ---
 
-{reversed="reversed"}
+{: reversed="reversed"}
 0. Peter G. McDonald, Edward J. Tyrrell, John Shumway, Jason M. Smith,
    and Ian Galbraith, 
-   “Tuning biexciton binding and anti-binding in
-   core/shell quantum dots,” 
-   Phys. Rev. B 86, 125310, (2012).
-   [pdf][]
+   *“Tuning biexciton binding and anti-binding in
+   core/shell quantum dots,”*
+   [Phys. Rev. B **86**, 125310, (2012).](http://link.aps.org/doi/10.1103/PhysRevB.86.125310)
+   [[pdf]](/pubs/physrevb-86-125310.pdf)
 
 0. S. Chang, S. Huang, H. Liu, P. Zhang, F. Liang, R. Akahori, S. Li, 
    B. Gyarfas, J. Shumway, B. Ashcroft, J. He, and S. Lindsay, “Chemical
