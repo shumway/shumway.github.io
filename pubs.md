@@ -9,17 +9,22 @@ permalink: /pubs/
    and Ian Galbraith, 
    *“Tuning biexciton binding and anti-binding in
    core/shell quantum dots,”*
-   [Phys. Rev. B **86**, 125310, (2012).](http://link.aps.org/doi/10.1103/PhysRevB.86.125310)
-   [[pdf]](/pubs/physrevb-86-125310.pdf)
+   [Phys. Rev. B **86**, 125310 (2012).
+   ](http://link.aps.org/doi/10.1103/PhysRevB.86.125310)
+   [[pdf]](/downloads/physrevb-86-125310.pdf)
 
 0. S. Chang, S. Huang, H. Liu, P. Zhang, F. Liang, R. Akahori, S. Li, 
-   B. Gyarfas, J. Shumway, B. Ashcroft, J. He, and S. Lindsay, “Chemical
-   recognition and binding kinetics in a functionalized tunnel junction,”
-   Nanotechnology 23, 235101 (2012). [pdf]
+   B. Gyarfas, J. Shumway, B. Ashcroft, J. He, and S. Lindsay,
+   *“Chemical recognition and binding kinetics in a functionalized tunnel junction,”*
+   [Nanotechnology **23**, 235101 (2012).
+   ](http://iopscience.iop.org/0957-4484/23/23/235101)
+   [[pdf]](/downloads/nanotechnology-23-235101.pdf)
 
-0. J. Shumway and M. J. Gilbert, “Effects of Fermion Flavor on Exciton
-   Condensation in Double Layer Systems,” Phys. Rev. B 85, 033103,
-   (2012). [pdf]
+0. J. Shumway and M. J. Gilbert, 
+   *“Effects of Fermion Flavor on Exciton Condensation in Double Layer Systems,”*
+   [Phys. Rev. B **85**, 033103 (2012).
+   ](http://link.aps.org/doi/10.1103/PhysRevB.85.033103)
+   [[pdf]](downloads/physrevb_85_033103.pdf)
 
 0. P. G. McDonald, J. Shumway, and I. Galbraith, “Lateral spatial
    switching of excitons using vertical electric fields in semiconductor
