@@ -30,8 +30,8 @@ permalink: /pubs/
    *“Lateral spatial switching of excitons using vertical electric fields in semiconductor quantum rings,”* 
    [Appl. Phys. Lett., 97, 173101 (2010)](   
    http://dx.doi.org/10.1063/1.3504230)
-   ([cover image](dowloads/aplCover.pdf).
-   [[pdf](downloads/applphyslett_97_173101.pdf) |
+   ([cover image](/dowloads/aplCover.pdf)).
+   [[pdf](/downloads/applphyslett_97_173101.pdf) |
    [arXiv:1007.3975](http://arxiv.org/abs/1007.3975)]
 
 0. Jesper Pedersen, Lei Zhang, Matthew J. Gilbert, and J. Shumway, 
