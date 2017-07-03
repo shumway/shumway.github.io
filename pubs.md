@@ -29,8 +29,8 @@ permalink: /pubs/
 0. P. G. McDonald, J. Shumway, and I. Galbraith,
    *“Lateral spatial switching of excitons using vertical electric fields in semiconductor quantum rings,”* 
    [Appl. Phys. Lett., 97, 173101 (2010)](   
-   http://link.aip.org/link/doi/10.1063/1.3504230)
-   ([cover image](http://apl.aip.org/resource/1/applab/v97/i17)).
+   http://dx.doi.org/10.1063/1.3504230)
+   ([cover image](dowloads/aplCover.pdf).
    [[pdf](downloads/applphyslett_97_173101.pdf) |
    [arXiv:1007.3975](http://arxiv.org/abs/1007.3975)]
 
