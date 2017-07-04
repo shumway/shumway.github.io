@@ -5,6 +5,28 @@ permalink: /pubs/
 ---
 
 {: reversed="reversed"}
+
+0. Jarosław R. Jarzynka1, Peter G. McDonald, John Shumway, and
+   Ian Galbraith
+   *“Lateral excitonic switching in vertically stacked quantum dots,”*
+   [J. Appl. Phys. **119**, 224303 (2016)](
+   http://dx.doi.org/10.1063/1.4953391).
+   [[pdf]](/downloads/jap-119-224303.pdf)
+
+0. K. Mukundakrishnan, K. Esler, V. Natoli, J. Shumway, Y. Zhang, 
+   J. R. Gilman, and H. Meng, 
+   *“Accelerating Tight Reservoir Workflows With GPUs,”*
+   Reservoir Simulation Symposium, Feb 2015
+   SPE 173246.
+   [[pdf]](/downloads/SPE-173246-MS.pdf)
+
+0. K. Esler, K. Mukundakrishnan, V. Natoli, J. Shumway, Y. Zhang,
+   and J. Gilman,
+   *“Realizing the Potential of GPUs for Reservoir Simulation,”*
+   ECMOR XIV – 14th European Conference on the Mathematics of Oil
+   Recovery, 8 September 2014
+   [[pdf]](/downloads/Ecmor14.pdf)
+
 0. Peter G. McDonald, Edward J. Tyrrell, John Shumway, Jason M. Smith,
    and Ian Galbraith, 
    *“Tuning biexciton binding and anti-binding in
